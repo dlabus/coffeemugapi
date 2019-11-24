@@ -1,0 +1,9 @@
+.vscode/
+CoffeeMugApi.BL/bin
+CoffeeMugApi.BL/obj
+CoffeeMugApi.DA/bin
+CoffeeMugApi.DA/obj
+CoffeeMugApi.Tests/bin
+CoffeeMugApi.Tests/obj
+CoffeeMugApi/bin
+CoffeeMugApi/obj
